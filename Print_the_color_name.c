@@ -1,3 +1,4 @@
+//Print Rainbow Colours
 #include<stdio.h>
 int main()
 {
