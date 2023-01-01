@@ -1,4 +1,3 @@
-//Vowel or Consonant
 #include<stdio.h>
 int main()
 {
